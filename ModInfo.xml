@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="MM_StackSize"/>
+	<DisplayName value="MonkeyMan's Increased Consumable Stack Size" />
+	<Description value="Increase stack size to 125 for several food, drink, and medical supplies." />
+	<Author value="MonkeyMan" />
+	<Version value="3.0" />
+</xml>
